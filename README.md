@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ehsan-Elahi07</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.</h3>
+<h3 align="left">A passionate frontend developer from Pakistan.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
