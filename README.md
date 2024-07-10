@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ehsan-Elahi07</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fcode-fi-lofi-beats-to-coderelax-to-FvBVst&psig=AOvVaw2n6gSONLj-05Z5W9FeGpWE&ust=1720709293022000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCfk_jbnIcDFQAAAAAdAAAAABAc">
+<img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsan-elahi07&label=Profile%20views&color=0e75b6&style=flat" alt="ehsan-elahi07" /> </p>
 
